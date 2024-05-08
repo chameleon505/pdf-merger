@@ -10,6 +10,5 @@ Command-line tool for merging multiple PDF files into a single document.
 ```bash
 python pdf_merge.py input1.pdf input2.pdf ... output.pdf
 ´´´
-
 5. The merged PDF file will be saved in the same directory as the script.
 
